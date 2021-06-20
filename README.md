@@ -1,4 +1,7 @@
 # Test Application For Integration with [SpringTaskProject](https://github.com/SauleQA/SpringTaskProject)
+
+This API is used in project [SpringTaskProject](https://github.com/SauleQA/SpringTaskProject).
+It returns users status (false or true) by its id from table Users.
 ____
 - Kotlin
 - Sprint Boot
